@@ -31,6 +31,7 @@ the [releases](https://github.com/qoharu/pagerbot/releases) page.
 A basic configuration file will look like
 
 ```yaml
+tz: "Asia/Jakarta"
 api_keys:
   slack: "abcd123"
   pagerduty:
